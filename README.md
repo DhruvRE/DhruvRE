@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvre&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvre" /> </p>
 
-- 🌱 I’m currently learning **React, Backend**
+- 🌱 I’m currently learning **cloud / deployement**
 
 - 👨‍💻 All of my projects are available at [work-in-progress](work-in-progress)
 
-- 💬 Ask me about **frontend**
+- 💬 Ask me about **fullstack**
 
 - 📫 How to reach me **dhruvrathore3002@gmail.com**
 
