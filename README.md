@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvre&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvre" /> </p>
 
 - 🌱 I’m currently learning **N8N Workflow**
-- Compleated - RAG / LLM / Agent, CI / CD Pipeline Workflow,
+- Completed - RAG / LLM / Agent, CI / CD Pipeline Workflow,
 
 - 👨‍💻 All of my projects are available at [work-in-progress](work-in-progress)
 
