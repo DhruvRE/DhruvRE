@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvre&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvre" /> </p>
 
-- 🌱 I’m currently learning **testing and automation (karate, selenium, pact, functional, performance)**
-- Completed - N8N / RAG / LLM / Agent, CI / CD Pipeline Workflow,
+- 🌱 I’m currently learning **Advance Networking & Devops**
+- Completed - N8N / RAG / LLM / Agent, CI / CD Pipeline Workflow / testing and automation,
 
 - 👨‍💻 All of my projects are available at [work-in-progress](work-in-progress)
 
