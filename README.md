@@ -1,16 +1,15 @@
 [![MasterHead](https://i.pinimg.com/originals/b9/22/48/b9224810a3c2745a4fa4112a7348131b.png)](https://DhruvRE.io)
 <h1 align="center">Hi 👋, I'm Dhruv Rathore</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate Devops Engineer and FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpkaWxqaG9yamJlNnUycGpzNGthdWcyZnJvb2h1empqM3Z1N3M3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvre&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvre" /> </p>
 
-- 🌱 I’m currently learning **Advance Networking & Devops**
-- Completed - N8N / RAG / LLM / Agent, CI / CD Pipeline Workflow / testing and automation,
+- 🌱 I’m currently learning **Advance Networking**
 
 - 👨‍💻 All of my projects are available at [work-in-progress](work-in-progress)
 
-- 💬 Ask me about **fullstack**
+- 💬 Ask me about **Devops And Fullstack**
 
 - 📫 How to reach me **dhruvrathore3002@gmail.com**
 
